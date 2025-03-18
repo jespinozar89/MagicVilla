@@ -6,6 +6,8 @@
 /home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.runtimeconfig.json
 /home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.dll
 /home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/MagicVillaAPI.pdb
+/home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/AutoMapper.dll
+/home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/Azure.Core.dll
 /home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/Azure.Identity.dll
 /home/jespinozar/Documentos/Proyect/NET/7/MagicVillaAPI/bin/Debug/net7.0/Humanizer.dll
